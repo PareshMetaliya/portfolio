@@ -34,7 +34,7 @@ const HeroSection = () => {
           </div>
           <div>
             <button
-              onClick={() => window.open("/assets/PARESH.pdf")}
+              onClick={() => window.open("/portfolio/assets/PARESH.pdf")}
               className="text-blue-400 font-bold px-4 py-2 border-2 rounded-xl border-blue-400 w-36"
             >
               Get Resume
